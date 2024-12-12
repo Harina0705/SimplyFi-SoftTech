@@ -1,0 +1,66 @@
+/* AboutUs.css */
+.about-us-container {
+    font-family: 'Arial', sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .about-us-header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .about-us-header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+  }
+  
+  .about-us-header p {
+    font-size: 1.2em;
+    color: #555;
+  }
+  
+  .about-us-content {
+    margin-top: 20px;
+  }
+  
+  .about-us-content h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .about-us-content h3 {
+    font-size: 1.8em;
+    margin-top: 30px;
+  }
+  
+  .about-us-content p {
+    font-size: 1.1em;
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .read-more {
+    background-color: #47a24a;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 1em;
+    transition: background-color 0.3s;
+  }
+  
+  .read-more:hover {
+    background-color: #51bb55;
+  }
+  
+  .leadership-name {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
